@@ -3,6 +3,7 @@ import App from './App.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 import { createPinia } from 'pinia'
 import AuthView from './views/AuthView.vue'
+import './index.css'
 
 const router = createRouter({
   history: createWebHistory(),

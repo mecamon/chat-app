@@ -1,6 +1,14 @@
 # chat-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Realtime chat application.
+
+## external libraries
+
+- [Firebase](https://firebase.google.com/)
+- [Cypress](https://www.cypress.io/)
+- [Pinia](https://pinia.vuejs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Vue router](https://router.vuejs.org/)
 
 ## Recommended IDE Setup
 
